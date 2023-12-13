@@ -31,7 +31,7 @@ Se realiza un proyecto de la red social para adultos mayores donde se desarrollo
 1. Clonar el repositorio en la máquina local:
    
    ```sh
-   git clone https://github.com/Altmare/red_social.git
+   git clone https://github.com/Altmare/red_social_segundas
    ```
 
 2. Navegar al directorio del proyecto:
